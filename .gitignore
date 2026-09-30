@@ -1,0 +1,20 @@
+# IDE
+.idea/
+*.iml
+
+# Backend
+.gradle/
+build/
+
+# Frontend
+node_modules/
+dist/
+
+# Local secrets
+.env
+.env.*
+!.env.example
+application-local.properties
+
+# Logs
+*.log
